@@ -1,92 +1,183 @@
-# 👋 Hi, I'm Aman!
+<div align="center">
 
-## 📊 Aspiring Data Analyst | Excel Learner | Data Enthusiast
+# 📊 AMAN
 
-Welcome to my GitHub! 🚀
+### Aspiring Data Analyst | Excel | Data Analytics
 
-I'm a **BSc Graduate** currently learning **Data Analytics** and building practical skills through real-world datasets and projects.
-
-My journey started with **Microsoft Excel**, where I'm learning to clean, analyze, visualize, and transform raw data into meaningful insights.
+🎓 **BSc Graduate**   •   📗 **Excel Learner**   •   📈 **Data Enthusiast**
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 Turning Data Into Meaningful Insights
 
-- 🎓 BSc Graduate
-- 📊 Currently learning **Data Analytics**
-- 📗 Building strong skills in **Microsoft Excel**
-- 📈 Interested in **Data Visualization & Business Insights**
-- 🚀 Building projects to improve my practical knowledge
-- 🎯 Goal: Become a skilled **Data Analyst**
+</div>
 
 ---
 
-## 🛠️ Skills I'm Learning
+## 👋 About Me
 
-### 📊 Microsoft Excel
+🎓 I’m a **BSc Graduate** building my career in **Data Analytics**.
 
-- Data Cleaning
-- Data Formatting
-- Excel Formulas & Functions
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Creation
-- Interactive Dashboards
-- Data Visualization
-- Sales Data Analysis
+📊 I have learned **Microsoft Excel** and am developing my skills in data cleaning, analysis, visualization, dashboards, and reporting.
 
-### 📚 Currently Exploring
+💡 I enjoy exploring data, finding patterns, understanding insights, and presenting information in a simple and meaningful way.
 
-- 🗄️ SQL
-- 📊 Power BI
-- 🐍 Python for Data Analysis
-- 💡 Business Intelligence
+> **“Every dataset has a story. I’m learning how to tell it.” 📊**
 
 ---
 
-## 📈 Featured Project
+## 🛠️ Skills
 
-### 🛒 Retail Sales Dashboard — Excel
-
-An interactive **Retail Sales Dashboard** created using Excel to analyze sales performance and generate meaningful business insights.
-
-### 🔍 Dashboard Analysis Includes:
-
-- 🏪 Sales by Channel
-- 📦 Sales by Category
-- 🌍 Sales by Region
-- 👥 Customer Segment Analysis
-- 📅 Sales by Year
-- 📊 Sales by Quarter
-- 🏆 Top 10 Products by Sales
-- 💰 Top 10 Products by Profit
-- 👨‍💼 Salesperson Sales & Profit
-- 🎯 KPI Cards
-- 🎛️ Interactive Slicers
-- 📈 Pivot Charts
-
-> **Goal:** Transform raw sales data into an interactive and easy-to-understand business dashboard.
+|        📗 Excel        |  📊 Data Analytics  |   📈 Visualization  |
+| :--------------------: | :-----------------: | :-----------------: |
+|  Formulas & Functions  |    Data Cleaning    |        Charts       |
+|      Pivot Tables      |    Data Analysis    |      Dashboards     |
+|      Pivot Charts      | Data Interpretation |       Reports       |
+|         Slicers        |     KPI Analysis    |  Data Storytelling  |
+| Conditional Formatting |       Insights      | Interactive Reports |
 
 ---
 
-## 🗺️ My Data Analyst Learning Journey
+## 📗 Excel Skills
 
 ```text
-📗 Excel
-   ↓
-🧹 Data Cleaning
-   ↓
-📊 Data Analysis
-   ↓
-📈 Data Visualization
-   ↓
-🗄️ SQL
-   ↓
-📊 Power BI
-   ↓
-🐍 Python
-   ↓
-🚀 Real-World Projects
-   ↓
-💼 Data Analyst
+Data Cleaning & Formatting
+          ↓
+Excel Formulas & Functions
+          ↓
+Pivot Tables
+          ↓
+Pivot Charts
+          ↓
+Slicers
+          ↓
+KPI Creation
+          ↓
+Interactive Dashboards
+          ↓
+Data Insights
+```
+
+---
+
+## 🚀 My Data Analytics Journey
+
+<div align="center">
+
+**🎓 BSc Graduate**
+
+⬇️
+
+**📗 Microsoft Excel**
+
+⬇️
+
+**🧹 Data Cleaning**
+
+⬇️
+
+**📊 Data Analysis**
+
+⬇️
+
+**📈 Data Visualization**
+
+⬇️
+
+**🗄️ SQL**
+
+⬇️
+
+**📊 Power BI**
+
+⬇️
+
+**🐍 Python**
+
+⬇️
+
+**💼 Data Analyst**
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+|    Technology   | Focus                                 |
+| :-------------: | :------------------------------------ |
+|   🗄️ **SQL**   | Data Querying & Analysis              |
+| 📊 **Power BI** | Business Intelligence & Visualization |
+|  🐍 **Python**  | Data Analysis & Automation            |
+
+---
+
+## 🎯 My Goal
+
+<div align="center">
+
+### **DATA → INSIGHTS → DECISIONS → GROWTH 🚀**
+
+</div>
+
+My goal is to continuously improve my **technical, analytical, problem-solving, communication, and decision-making skills** and build a successful career as a **Data Analyst**.
+
+---
+
+## 🧠 My Learning Approach
+
+```text
+🔍 Understand the Data
+        ↓
+🧹 Clean the Data
+        ↓
+📊 Analyze the Data
+        ↓
+📈 Visualize the Data
+        ↓
+💡 Find Insights
+        ↓
+🎯 Communicate Results
+        ↓
+🚀 Keep Learning & Improving
+```
+
+---
+
+## 💡 What I Believe
+
+> **Good data creates better understanding.**
+
+> **Better understanding leads to better decisions.**
+
+> **Continuous learning creates continuous growth. 🚀**
+
+---
+
+## 🌱 Beyond Technical Skills
+
+I’m also working on developing:
+
+* 🧠 Problem-solving
+* 🗣️ Communication
+* 🤝 Teamwork
+* ⏱️ Time Management
+* 📚 Continuous Learning
+* 🎯 Critical Thinking
+* 💪 Consistency
+
+---
+
+<div align="center">
+
+## 🌟 My Mindset
+
+### **Learn • Analyze • Visualize • Improve • Grow**
+
+---
+
+### 👋 Thanks for Visiting My GitHub!
+
+**📊 Data Analyst Journey in Progress... 🚀**
+
+</div>
